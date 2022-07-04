@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MovieSearch</string>
+    <string name="TopMovies">Top Movies</string>
+    <string name="TopTvShows">Top TV Shows</string>
+    <string name="Search">Search</string>
+    <string name="title_activity_list_item_detail">ListItemDetailActivity</string>
+</resources>

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.exoplayer:exoplayer:2.18.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../Android-Music-Player-master/caches/transforms-3/281bd2641ae60034d2b10bbca1c0274e/transformed/exoplayer-2.18.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/281bd2641ae60034d2b10bbca1c0274e/transformed/exoplayer-2.18.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/281bd2641ae60034d2b10bbca1c0274e/transformed/exoplayer-2.18.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/281bd2641ae60034d2b10bbca1c0274e/transformed/exoplayer-2.18.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer/2.18.0/4b29b7d2caeaa7e7f237a5d4dea22a4c0d15dee/exoplayer-2.18.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

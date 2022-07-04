@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.dagger:dagger-lint-aar:2.42@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../Android-Music-Player-master/caches/transforms-3/0d16709feaa468dd153a92ff81a994e9/transformed/dagger-lint-aar-2.42/res" />
+      <root url="file://$PROJECT_DIR$/../Android-Music-Player-master/caches/transforms-3/5022c1b63d16ae7d03b1080bc7c868ef/transformed/dagger-lint-aar-2.42/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5022c1b63d16ae7d03b1080bc7c868ef/transformed/dagger-lint-aar-2.42/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5022c1b63d16ae7d03b1080bc7c868ef/transformed/dagger-lint-aar-2.42/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/5022c1b63d16ae7d03b1080bc7c868ef/transformed/dagger-lint-aar-2.42/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
