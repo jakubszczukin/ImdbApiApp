@@ -29,5 +29,6 @@ data class Movie(
     val companies : String = "",
     val countries : String = "",
     val languages : String = "",
-    val trailer : Trailer? = null
+    val trailer : Trailer? = null,
+    val similars : List<Movie> = listOf()
 ) : Serializable
