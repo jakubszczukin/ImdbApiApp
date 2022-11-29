@@ -1,4 +1,4 @@
-# ImdbApiApp (WIP)
+# ImdbApiApp
 Simple app made using IMDB API which displays the most popular movies and details about them.
 
 ## Configuration
